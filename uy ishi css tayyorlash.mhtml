@@ -1,0 +1,76 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/1-oy/10-darss/index.html
+Subject: uy ishi css tayyorlash
+Date: Fri, 06 Nov 2026 16:06:14 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--g5X5vvneDyf02IUjr2skBq4PS16xQBtEExJwvRd8ro----"
+
+
+------MultipartBoundary--g5X5vvneDyf02IUjr2skBq4PS16xQBtEExJwvRd8ro----
+Content-Type: text/html
+Content-ID: <frame-E7C0DECE340170A0B91859B24006D05D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/1-oy/10-darss/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>uy ishi css tayyorlash</title>
+    <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/1-oy/10-darss/st=
+yle.css">
+</head>
+<body>
+    <h1>
+        Assalomu alaykum
+    </h1>
+   <h3>
+        CSS veb sahifaning tashqi korinishiha ishlov beradi. CSSdan foydala=
+nib, siz matnning rangini, shriftlarning uslubini, paragraflar orasidagi bo=
+shliqni, ustunlarning olchamlari va joylashishini, fon rasmlari yoki rangla=
+rning qanday ishlatilishini, sxemaning yuzilishini, turli xil qurilmalar va=
+ ekran olchamlari uchun displeyning ozgarishini boshqarishingiz mumkin. Shu=
+ningdek turli efektlarni ham.
+   </h3>
+   <h2>
+       <span style=3D"border-left: 300px; border-right: 300px;">CSS ni 3 xi=
+l usulda ulab ishlatsa boladi.</span>
+   </h2>
+   <div>
+        <ol>
+            <li><span style=3D"color: red;">Inline</span> </li>
+            <li> <span style=3D"color: blue;">Internal</span></li>
+            <li><span style=3D"color: green;">External</span></li>
+        </ol>
+   </div>=20
+
+   =20
+
+
+
+
+
+
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--g5X5vvneDyf02IUjr2skBq4PS16xQBtEExJwvRd8ro----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/1-oy/10-darss/style.css
+
+@charset "utf-8";
+
+h1 { color: brown; background-color: aqua; text-align: center; border-top-r=
+ight-radius: 30px; border-bottom-left-radius: 30px; }
+
+h3 { color: rgba(255, 238, 0, 0.863); background-color: black; text-align: =
+center; border: 3px solid red; border-radius: 10px; }
+
+h2 { width: 300px; border-left: 2px solid black; border-right: 2px solid bl=
+ack; }
+------MultipartBoundary--g5X5vvneDyf02IUjr2skBq4PS16xQBtEExJwvRd8ro------
